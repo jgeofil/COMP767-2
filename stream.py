@@ -13,10 +13,10 @@ RUN = '_shorts5'
 SIZE = 5000
 
 # Variables that contains yours credentials to access Twitter API
-consumer_key = "Lg9OKIF1UB7QpVR2gAgQbnz53"
-consumer_secret = "1hNMIsBpuHTabB4bW6XmnNhjzXUUyoOMB5gaoJPwb4JlnID4cg"
-access_token = "3348799768-JOpvWokBTXSlqw4tCooU2GMesgwk93lFbAUA7uL"
-access_token_secret = "oQ7uHuCyKy9vROnia8xeV8aCzJhjksBKXukMn3fr4DeoW"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 
 # This is a basic listener that just prints received tweets to stdout.
